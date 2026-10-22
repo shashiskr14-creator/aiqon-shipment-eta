@@ -1,0 +1,16 @@
+{
+    "baseline": {
+        "MAE_hours": 9.517696,
+        "RMSE_hours": 12.395087975484481,
+        "R2": -8.107078331409667e-05
+    },
+    "random_forest": {
+        "MAE_hours": 5.710831506492526,
+        "RMSE_hours": 7.294047251033421,
+        "R2": 0.6536835470009564
+    },
+    "training_shipments": 200,
+    "testing_shipments": 50,
+    "target": "final_delay_hours",
+    "prediction_timing": "Before departure"
+}
